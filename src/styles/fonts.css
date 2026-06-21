@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Poppins:wght@500&display=swap');
+
+@font-face {
+  font-family: 'Bemdayni Demo';
+  src: url('/src/fonts/BemDayniDemo.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
